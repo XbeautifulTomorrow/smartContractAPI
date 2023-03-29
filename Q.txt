@@ -1,1 +1,0 @@
-P(AB)=P(A)+P(B)-P(A∪B)=1.6-P(A∪B)，可知P(A∪B)有min值时P(AB)有max值，反之即P(A∪B)有max值时P(AB)有min值。显然，A∪B=A即A⊇B时，P(A∪B)有min值0.9，可得P(AB)max=1.6-0.9=0.7同理，A∪B=U时，P(A∪B)有max值1，此时可得P(AB)min=1.6-1=0.6；
